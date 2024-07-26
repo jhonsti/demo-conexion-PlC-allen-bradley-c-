@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\jhonnatan\\intecol\\demoComunicacionPLC\\Demo-Conexion-PLC-Allen-bradley\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252A2186-5EB1-4226-A035-F7A2689040D5}|ConexionPLC.csproj|c:\\users\\usuario\\documents\\jhonnatan\\intecol\\democomunicacionplc\\demo-conexion-plc-allen-bradley\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252A2186-5EB1-4226-A035-F7A2689040D5}|ConexionPLC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\jhonnatan\\intecol\\demoComunicacionPLC\\Demo-Conexion-PLC-Allen-bradley\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\jhonnatan\\intecol\\demoComunicacionPLC\\Demo-Conexion-PLC-Allen-bradley\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADgv0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:10:09.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
